@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Sobre el proyecto
+Este es un proyecto para el seminario de Angular de la Unicen, consta de una web de instrumentos musicales disponibles en una tienda.
+
+## Estudiante
+* Miqueas Freiberger; 43.589.830; miqueasfreiberger@gmail.com; Olavarria
+
