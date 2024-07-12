@@ -1,0 +1,22 @@
+div {
+  margin-top: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+  transition: box-shadow 0.3s ease;
+}
+
+div:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+a {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+a:hover {
+  color: #007bff;
+}

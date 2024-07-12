@@ -1,0 +1,8 @@
+<div *ngIf="instrumento">
+  <h2>{{ instrumento.nombre }}</h2>
+  <p>Tipo: {{ instrumento.tipo }}</p>
+  <p>Precio: {{ instrumento.precio }}</p>
+  <p>Descripción: {{ instrumento.descripcion }}</p>
+
+  <a routerLink="/instrumentos">Volver</a>
+</div>
