@@ -4,4 +4,5 @@ export interface Instrumento {
   tipo: string;
   precio: number;
   descripcion: string;
+  cantidad?: number;
 }

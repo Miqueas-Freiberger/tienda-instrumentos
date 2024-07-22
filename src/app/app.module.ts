@@ -8,6 +8,7 @@ import { InstrumentosComponent } from './instrumentos/instrumentos.component';
 import { InstrumentoDetalleComponent } from './instrumento-detalle/instrumento-detalle.component';
 import { InstrumentoItemComponent } from './instrumento-item/instrumento-item.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { CarritoComponent } from './carrito/carrito.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { NavbarComponent } from './navbar/navbar.component';
     InstrumentosComponent,
     InstrumentoDetalleComponent,
     InstrumentoItemComponent,
-    NavbarComponent
+    NavbarComponent,
+    CarritoComponent
   ],
   imports: [
     BrowserModule,

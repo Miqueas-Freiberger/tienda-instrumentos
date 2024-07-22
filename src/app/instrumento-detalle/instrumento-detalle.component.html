@@ -3,6 +3,5 @@
   <p>Tipo: {{ instrumento.tipo }}</p>
   <p>Precio: {{ instrumento.precio }}</p>
   <p>Descripción: {{ instrumento.descripcion }}</p>
-
-  <a routerLink="/instrumentos">Volver</a>
+  <button (click)="addToCart(instrumento)">Agregar al Carrito</button>
 </div>

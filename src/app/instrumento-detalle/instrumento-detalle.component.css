@@ -18,7 +18,7 @@ p {
   font-size: 1.1rem;
 }
 
-a {
+a,button {
   display: inline-block;
   margin-top: 20px;
   padding: 10px 20px;
